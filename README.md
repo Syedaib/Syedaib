@@ -1,5 +1,7 @@
+[![MasterHead](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif)](https://www.linkedin.com/in/syed-ibtisam-nafis-8417011a7) 
 <h1 align="center">Hi 👋, I'm Syed Ibtisam Nafis</h1>
 <h3 align="center">A passionate Data Scientist</h3>
+<img align="right" alt="Colding" width= "400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 - 🌱 I’m currently learning **more advance skill of Data Science**
 
